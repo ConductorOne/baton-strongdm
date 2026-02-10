@@ -1,6 +1,6 @@
 ![Baton Logo](./baton-logo.png)
 
-# `baton-strongdm` [![Go Reference](https://pkg.go.dev/badge/github.com/conductorone/baton-strongdm.svg)](https://pkg.go.dev/github.com/conductorone/baton-strongdm) ![main ci](https://github.com/conductorone/baton-strongdm/actions/workflows/main.yaml/badge.svg)
+# `baton-strongdm` [![Go Reference](https://pkg.go.dev/badge/github.com/conductorone/baton-strongdm.svg)](https://pkg.go.dev/github.com/conductorone/baton-strongdm) ![ci](https://github.com/conductorone/baton-strongdm/actions/workflows/ci.yaml/badge.svg) ![verify](https://github.com/conductorone/baton-strongdm/actions/workflows/verify.yaml/badge.svg)
 
 `baton-strongdm` is a connector for built using the [Baton SDK](https://github.com/conductorone/baton-sdk).
 
